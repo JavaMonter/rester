@@ -12,10 +12,7 @@
     <packaging>jar</packaging>
     <dependencies>
 
-        <dependency>
-            <groupId>jakarta.ws.rs</groupId>
-            <artifactId>jakarta.ws.rs-api</artifactId>
-        </dependency>
+       
 
         <dependency>
             <groupId>jakarta.servlet</groupId>
@@ -37,10 +34,7 @@
             <artifactId>jakarta.interceptor-api</artifactId>
         </dependency>
 
-        <dependency>
-            <groupId>jakarta.validation</groupId>
-            <artifactId>jakarta.validation-api</artifactId>
-        </dependency>
+       
 
         <!-- This is optional and will work at runtime with or without EJB being present -->
         <dependency>
