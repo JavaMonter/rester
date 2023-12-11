@@ -2,12 +2,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
-    <parent>
-        <artifactId>resteasy-jaxrs-all</artifactId>
-        <groupId>org.jboss.resteasy</groupId>
-        <version>7.0.0.Alpha1-SNAPSHOT</version>
-        <relativePath>../pom.xml</relativePath>
-    </parent>
+    <AASDSAdsss2
 
     <artifactId>resteasy-client-api</artifactId>
     <name>RESTEasy Client API</name>
