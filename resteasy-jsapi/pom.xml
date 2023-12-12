@@ -13,12 +13,7 @@
     <name>RESTEasy JSAPI</name>
     <description/>
 
-    <dependencies>
-        <dependency>
-            <groupId>org.jboss.resteasy</groupId>
-            <artifactId>resteasy-core</artifactId>
-            <version>${project.version}</version>
-        </dependency>
+  
         <dependency>
             <groupId>jakarta.ws.rs</groupId>
             <artifactId>jakarta.ws.rs-api</artifactId>
