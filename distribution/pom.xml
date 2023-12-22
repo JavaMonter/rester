@@ -6,6 +6,10 @@
         <artifactId>resteasy-jaxrs-all</artifactId>
         <version>7.0.0.Alpha1-SNAPSHOT</version>
     </parent>
+   <artifactId>resteasy-dist</artifactId>
+    <packaging>pom</packaging>
+    <name>RESTEasy Distribution</name>
+    <description/>
 
     <artifactId>resteasy-dist</artifactId>
     <packaging>pom</packaging>
