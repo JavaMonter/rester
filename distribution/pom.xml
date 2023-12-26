@@ -11,12 +11,6 @@
     <name>RESTEasy Distribution</name>
     <description/>
 
-    <artifactId>resteasy-dist</artifactId>
-    <packaging>pom</packaging>
-    <name>RESTEasy Distribution</name>
-    <description/>
-
-    <modules>
         <module>src-distribution</module>
     </modules>
 
