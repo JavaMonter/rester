@@ -3,7 +3,12 @@
     <modelVersion>4.0.0</modelVersion>
     <!-- Use the jboss-parent as the parent. The org.jboss.resteasy:resteasy-jaxrs-all imports the
          org.jboss.resteasy:resteasy-dependencies BOM which we do not want included in this BOM.
-    -->
+    -->    <parent>
+        <groupId>dev.resteasy.tools</groupId>
+        <artifactId>resteasy-parent</artifactId>
+        <version>2.0.4.Final</version>
+        <relativePath/>
+    </parent>
     <parent>
         <groupId>dev.resteasy.tools</groupId>
         <artifactId>resteasy-parent</artifactId>
